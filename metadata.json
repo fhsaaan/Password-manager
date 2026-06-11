@@ -1,0 +1,6 @@
+{
+  "name": "Password Manager",
+  "description": "Secure local password management app featuring robust AES-256 GCM encryption, 4-digit Master PIN protection, secure random password synthesizers, and Android biometric authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
